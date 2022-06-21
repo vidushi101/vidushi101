@@ -2,7 +2,7 @@ Hi, I’m @vidushi101
 I’m working as a technical solutions analyst at Cerner (India)
 I am interested in data analysis and business analysis, especially for the healthcare sector.
 I have a decent grasp on SQL and tableau. I am currently working on R and Powe BI skills.
-- 💞️ I’m looking to collaborate on SQL based projects
+I’m looking to collaborate on SQL based projects
 contact me via my email: vidushi04.khanna@gmail.com
 
 <!---
