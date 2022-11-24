@@ -6,10 +6,10 @@ I’m looking forward to collaborate on SQL/R/Tableau based projects.
 Know more about me on:   
 
  Website: https://vidushikhanna.netlify.app/ 
+ 
 You can Contact me   
-
 via my email: vidushi04.khanna@gmail.com  
-LinkedIn: https://www.linkedin.com/in/dr-vidushi-khanna/    
+via LinkedIn: https://www.linkedin.com/in/dr-vidushi-khanna/    
 
 Know more about my projects on:
 Kaggle:https://www.kaggle.com/vidushikhanna
